@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello there! I'm Yash Khandelwal, an intermediate Java developer with a passion for learning and exploring new technologies and languages. I enjoy diving into various projects and challenges, always eager to expand my knowledge and skills. 💻
+Hello there! I'm Yash Khandelwal, an intermediate Software developer with a passion for learning and exploring new technologies and languages. I enjoy diving into various projects and challenges, always eager to expand my knowledge and skills. 💻
 
 ## Collaboration
 
